@@ -1,1 +1,1 @@
-export const baseUrl = "https://codehelp-apis.vercel.app/api/get-blogs";//There may be '?' at the end of the URL string
+export const baseUrl = "https://codehelp-apis.vercel.app/api/get-blogs";
